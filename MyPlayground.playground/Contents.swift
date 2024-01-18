@@ -1,5 +1,5 @@
 import UIKit
-/*
+
 //q1
 func evenSum(num:[Int]) ->Int{
     var sum = 0
@@ -66,7 +66,7 @@ print(findMaximum(numbers: [1, 8, 2, 3, 5]))
 //jan 7
 //q1
 //sum=10 ,output=[-1,11],time complexity=o(n),space complexity=o(n)
-*/
+
 
     let array = [3,5,-4,8,11,1,-1,6]
 
